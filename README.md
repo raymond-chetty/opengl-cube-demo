@@ -26,6 +26,9 @@ make
 
 ## Run the Application
 
+> [!WARNING]
+> Make sure X11 is running first!
+
 ```bash
 ./bin/cube_demo
 ```
