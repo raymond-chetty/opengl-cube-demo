@@ -18,7 +18,6 @@ sudo apt-get install -y build-essential cmake libglfw3-dev libglew-dev libglm-de
 ## Build Instructions
 
 ```bash
-cd codespaces-blank
 mkdir -p build
 cd build
 cmake ..
