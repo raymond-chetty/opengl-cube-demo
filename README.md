@@ -6,6 +6,8 @@ A simple 3D rotating cube application in C using OpenGL, GLFW, and GLEW. The cub
 
 This demo requires an X11 display server for the devcontainer. Make sure your devcontainer is set up to forward X11 graphics.
 
+For detailed X11 configuration and setup instructions, see: [codespaces-GUI-CE](https://github.com/raymond-chetty/codespaces-GUI-CE) - Contains X11 display configuration and startup instructions for devcontainers.
+
 ## Install Required Packages
 
 ```bash
